@@ -81,27 +81,24 @@ Students often face difficulties when dealing with:
 
 🛠️ Technology Stack
 
-## 💻 Frontend
-* **React**
-* **TypeScript**
-* **Vite**
-* **Tailwind CSS**
-
-## ⚙️ Backend
-* **Python**
-* **FastAPI**
-* **SQLite**
-* **REST APIs**
-
-## 🤖 AI
-* **AI/LLM Integration**
-* **Intelligent Request Processing**
-* **AI-Assisted Workflow Support**
-
-## 🔧 Development Tools
-* **Git**
-* **GitHub**
-* **VS Code**
+Frontend
+React
+TypeScript
+Vite
+Tailwind CSS
+Backend
+Python
+FastAPI
+SQLite
+REST APIs
+AI
+AI/LLM Integration
+Intelligent Request Processing
+AI-Assisted Workflow Support
+Development Tools
+Git
+GitHub
+VS Code
 
 
 Campusflow-AI/
