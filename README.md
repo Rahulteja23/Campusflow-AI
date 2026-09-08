@@ -93,7 +93,7 @@ Students often face difficulties when dealing with:
 * **SQLite**
 * **REST APIs**
 
-### 🤖 AI
+## 🤖 AI
 * **AI/LLM Integration**
 * **Intelligent Request Processing**
 * **AI-Assisted Workflow Support**
