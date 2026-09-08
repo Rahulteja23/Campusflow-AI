@@ -126,18 +126,6 @@ Campusflow-AI/
 ├── .gitignore
 └── README.md
 
-# 💡 What Makes CampusFlow AI Different?
-
-**CampusFlow AI is not designed simply as a chatbot.**  
-The goal is to use AI as part of an end-to-end workflow.
-
----
-
-### ❌ Traditional Approach
-```text
-Student ➔ Find Department ➔ Submit Request ➔ Wait ➔ Follow Up ➔ Find Status ➔ Resolution
-```
-
 ### 🚀 CampusFlow AI Approach
 ```text
 Student ➔ CampusFlow AI ➔ Understand Request ➔ Orchestrate Workflow ➔ Track Progress ➔ Resolution
