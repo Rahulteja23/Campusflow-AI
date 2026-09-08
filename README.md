@@ -79,15 +79,15 @@ Students often face difficulties when dealing with:
                            ▼
                   Campus Service Flow
 
-# 🛠️ Technology Stack
+🛠️ Technology Stack
 
-### 💻 Frontend
+## 💻 Frontend
 * **React**
 * **TypeScript**
 * **Vite**
 * **Tailwind CSS**
 
-### ⚙️ Backend
+## ⚙️ Backend
 * **Python**
 * **FastAPI**
 * **SQLite**
@@ -98,7 +98,7 @@ Students often face difficulties when dealing with:
 * **Intelligent Request Processing**
 * **AI-Assisted Workflow Support**
 
-### 🔧 Development Tools
+## 🔧 Development Tools
 * **Git**
 * **GitHub**
 * **VS Code**
